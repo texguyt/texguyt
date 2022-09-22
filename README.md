@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @texguyt
 - 👀 I’m interested in ... learning and support
-- 🌱 I’m currently learning ... starting a career change in software engineering
+- 🌱 I’m currently learning ... starting a career change in cyber security
 - 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ... texguyt@gmail.com
 
